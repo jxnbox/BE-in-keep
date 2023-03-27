@@ -21,7 +21,7 @@ module.exports = [
     },
     {
         name : "Test Three",
-        date_of_birth : "12/10/1940",
+        date_of_birth : "03/12/2002",
         report_type : "sports form",
         price: 50,
         invoice_number: 7507,
@@ -31,7 +31,7 @@ module.exports = [
     },
     {
         name : "Test Four",
-        date_of_birth : "12/10/1940",
+        date_of_birth : "13/07/1979",
         report_type : "sports form",
         price: 50,
         invoice_number: 7653,
@@ -41,7 +41,7 @@ module.exports = [
     },
     {
         name : "Test Five",
-        date_of_birth : "12/10/1940",
+        date_of_birth : "30/11/1999",
         report_type : "MAR",
         price: 200,
         invoice_number: 6334,
